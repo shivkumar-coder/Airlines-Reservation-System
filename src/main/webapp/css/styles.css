@@ -1,0 +1,16 @@
+@charset "ISO-8859-1";
+
+.bg-custom {
+	background: #2C2E43;
+	font-size: 20px;
+}
+
+.navbar-custom .nav-item:hover .nav-link {
+	background: #B2B1B9;
+	border-radius: 30px;
+}
+
+.carousel {
+	width: 1000px;
+	height: 500px;
+}
